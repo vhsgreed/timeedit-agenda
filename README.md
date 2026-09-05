@@ -33,3 +33,7 @@ Events whose names match any of (localizable, edit the `IMPORTANT` list):
 
 - `TIMEEDIT_ICS_URL` — your calendar feed URL (required, see above)
 - Timezone: Europe/Stockholm (edit `TZ` at top of script)
+
+## Links
+
+Part of the [vhsgreed](https://vhsgreed.win) toolset: data, code, and methods in the open.
